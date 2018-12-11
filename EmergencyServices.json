@@ -4,14 +4,14 @@
 	"name":"New Town Police Station",
 	"contactNumber":"03323246076"
 	},{
-	"name":"New Town Police Station",
-	"contactNumber":"03323246076"
+	"name":"Police Control Room",
+	"contactNumber":"100"
 	},{
 	"name":"West Bengal Police",
 	"contactNumbers":["03322144031", "03322141946"]
 	},{
 	"name":"Lalbazar Control Room",
-	"contactNumbers":["03322143024", "03322143230", "033221431310"]
+	"contactNumbers":["03322143024", "03322143230", "03322141310"]
 	},{
 	"name":"Fire Control Room",
 	"contactNumber":"101"
@@ -21,5 +21,68 @@
 	},{
 	"name":"Salt Lake Fire Station",
 	"contactNumber":"03323575293"
+	},{
+	"name":"Ambulance",
+	"contactNumber":"102"
+	},{
+	"name":"Gas leakage",
+	"contactNumber":"1906"
+	},{
+	"name":"Tourist Helpline",
+	"contactNumber":"1363"
+	},{
+	"name":"Child Helpline",
+	"contactNumber":"1098"
+	},{
+	"name":"Blood Requirement",
+	"contactNumber":"104"
+	},{
+	"name":"Women's Helpline",
+	"contactNumber":"181"
+	},{
+	"name":"Ambulance Network",
+	"contactNumber":"09343180000"
+	},{
+	"name":"Disaster Management Services",
+	"contactNumber":"108"
+	},{
+	"name":"AIDS helpline",
+	"contactNumber":"1097"
+	},{
+	"name":"Railway Enquiry",
+	"contactNumber":"139"
+	},{
+	"name":"Senior Citizen Helpline",
+	"contactNumber":"1291"
+	},{
+	"name":"Railway Accident Emergency Service",
+	"contactNumber":"1072"
+	},{
+	"name":"Road Accident Emergency Service",
+	"contactNumber":"1073"
+	},{
+	"name":"Central Vigilance Commission",
+	"contactNumber":"1964"
+	},{
+	"name":"Indian Railway Security Helpline",
+	"contactNumber":"1322"
+	},{
+	"name":"",
+	"contactNumber":""
+	},{
+	"name":"",
+	"contactNumber":""
+	},{
+	"name":"Airport (General Inquiry)",
+	"contactNumber":"140"
+	},{
+	"name":"Airport (Reservation Inquiry)",
+	"contactNumber":"141"
+	},{
+	"name":"Airport (Flight Arrival)",
+	"contactNumber":"142"
+	},{
+	"name":"Airport (Flight Departure)",
+	"contactNumber":"143"
 	}]
 }
