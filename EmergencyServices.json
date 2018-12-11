@@ -1,0 +1,25 @@
+{
+"app":"Sukhobristi"
+"services"=[{
+	"name":"New Town Police Station",
+	"contactNumber":"03323246076"
+	},{
+	"name":"New Town Police Station",
+	"contactNumber":"03323246076"
+	},{
+	"name":"West Bengal Police",
+	"contactNumbers":[{"03322144031"},{"03322141946"}]
+	},{
+	"name":"Lalbazar Control Room",
+	"contactNumbers":[{"03322143024"},{"03322143230"},{"033221431310"}]
+	},{
+	"name":"Fire Control Room",
+	"contactNumber":"101"
+	},{
+	"name":"West Bengal State Electricity Board",
+	"contactNumbers":[{"03323591915"},{"03323371150"}]
+	},{
+	"name":"Salt Lake Fire Station",
+	"contactNumber":"03323575293"
+	}]
+}
