@@ -2,81 +2,107 @@
 "app":"Sukhobrishti",
 "emergencyServices":[{
 	"name":"New Town Police Station",
-	"contactNumber":"03323246076"
+	"contactNumber":"03323246076",
+	"iconName":"policeStation"
 	},{
 	"name":"Police Control Room",
-	"contactNumber":"100"
+	"contactNumber":"100",
+	"iconName":"policeStation"
 	},{
 	"name":"West Bengal Police",
-	"contactNumbers":["03322144031", "03322141946"]
+	"contactNumbers":["03322144031", "03322141946"],
+	"iconName":"policeStation"
 	},{
 	"name":"Lalbazar Control Room",
-	"contactNumbers":["03322143024", "03322143230", "03322141310"]
+	"contactNumbers":["03322143024", "03322143230", "03322141310"],
+	"iconName":"policeStation"
 	},{
 	"name":"Fire Control Room",
-	"contactNumber":"101"
+	"contactNumber":"101",
+	"iconName":"fireStation"
 	},{
 	"name":"Salt Lake Fire Station",
-	"contactNumber":"03323575293"
+	"contactNumber":"03323575293",
+	"iconName":"fireStation"
 	},{
 	"name":"West Bengal State Electricity Board",
-	"contactNumbers":["03323591915", "03323371150"]
+	"contactNumbers":["03323591915", "03323371150"],
+	"iconName":"electricOffice"
 	},{
 	"name":"Ambulance",
-	"contactNumber":"102"
+	"contactNumber":"102",
+	"iconName":"ambulance"
 	},{
 	"name":"Ambulance Network",
-	"contactNumber":"09343180000"
+	"contactNumber":"09343180000",
+	"iconName":"ambulance"
 	},{
 	"name":"Blood Requirement",
-	"contactNumber":"104"
+	"contactNumber":"104",
+	"iconName":"blood"
 	},{
 	"name":"AIDS helpline",
-	"contactNumber":"1097"
+	"contactNumber":"1097",
+	"iconName":"aids"
 	},{
 	"name":"Gas leakage",
-	"contactNumber":"1906"
+	"contactNumber":"1906",
+	"iconName":"gasService"
 	},{
 	"name":"Child Helpline",
-	"contactNumber":"1098"
+	"contactNumber":"1098",
+	"iconName":"child"
 	},{
 	"name":"Women's Helpline",
-	"contactNumber":"181"
+	"contactNumber":"181",
+	"iconName":"woman"
 	},{
 	"name":"Senior Citizen Helpline",
-	"contactNumber":"1291"
+	"contactNumber":"1291",
+	"iconName":"seniorCitizen"
 	},{
 	"name":"Disaster Management Services",
-	"contactNumber":"108"
+	"contactNumber":"108",
+	"iconName":"disasterOffice"
 	},{
 	"name":"Central Vigilance Commission",
-	"contactNumber":"1964"
+	"contactNumber":"1964",
+	"iconName":"policeStation"
 	},{
 	"name":"Railway Enquiry",
-	"contactNumber":"139"
+	"contactNumber":"139",
+	"iconName":"railway"
 	},{
 	"name":"Railway Accident Emergency Service",
-	"contactNumber":"1072"
+	"contactNumber":"1072",
+	"iconName":"railway"
 	},{
 	"name":"Railway Security Helpline",
-	"contactNumber":"1322"
+	"contactNumber":"1322",
+	"iconName":"railway"
 	},{
 	"name":"Tourist Helpline",
-	"contactNumber":"1363"
+	"contactNumber":"1363",
+	"iconName":"tourist"
 	},{
 	"name":"Road Accident Emergency Service",
-	"contactNumber":"1073"
+	"contactNumber":"1073",
+	"iconName":"road"
 	},{
 	"name":"Airport (General Inquiry)",
-	"contactNumber":"140"
+	"contactNumber":"140",
+	"iconName":"airport"
 	},{
 	"name":"Airport (Reservation Inquiry)",
-	"contactNumber":"141"
+	"contactNumber":"141",
+	"iconName":"airport"
 	},{
 	"name":"Airport (Flight Arrival)",
-	"contactNumber":"142"
+	"contactNumber":"142",
+	"iconName":"airport"
 	},{
 	"name":"Airport (Flight Departure)",
-	"contactNumber":"143"
+	"contactNumber":"143",
+	"iconName":"airport"
 	}]
 }
