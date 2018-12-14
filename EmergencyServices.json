@@ -3,31 +3,31 @@
 "emergencyServices":[{
 	"name":"New Town Police Station",
 	"contactNumber":"03323246076",
-	"iconName":"policeStation"
+	"iconName":"police"
 	},{
 	"name":"Police Control Room",
 	"contactNumber":"100",
-	"iconName":"policeStation"
+	"iconName":"police"
 	},{
 	"name":"West Bengal Police",
 	"contactNumbers":["03322144031", "03322141946"],
-	"iconName":"policeStation"
+	"iconName":"police"
 	},{
 	"name":"Lalbazar Control Room",
 	"contactNumbers":["03322143024", "03322143230", "03322141310"],
-	"iconName":"policeStation"
+	"iconName":"police"
 	},{
 	"name":"Fire Control Room",
 	"contactNumber":"101",
-	"iconName":"fireStation"
+	"iconName":"fire"
 	},{
 	"name":"Salt Lake Fire Station",
 	"contactNumber":"03323575293",
-	"iconName":"fireStation"
+	"iconName":"fire"
 	},{
 	"name":"West Bengal State Electricity Board",
 	"contactNumbers":["03323591915", "03323371150"],
-	"iconName":"electricOffice"
+	"iconName":"electric"
 	},{
 	"name":"Ambulance",
 	"contactNumber":"102",
@@ -47,7 +47,7 @@
 	},{
 	"name":"Gas leakage",
 	"contactNumber":"1906",
-	"iconName":"gasService"
+	"iconName":"lpg"
 	},{
 	"name":"Child Helpline",
 	"contactNumber":"1098",
@@ -63,7 +63,7 @@
 	},{
 	"name":"Disaster Management Services",
 	"contactNumber":"108",
-	"iconName":"disasterOffice"
+	"iconName":"disaster"
 	},{
 	"name":"Central Vigilance Commission",
 	"contactNumber":"1964",
