@@ -22,11 +22,11 @@
 	"iconName":"police"
 	},{
 	"name":"West Bengal Police",
-	"contactNumber":["03322144031", "03322141946"],
+	"contactNumber":"03322144031, 03322141946",
 	"iconName":"police"
 	},{
 	"name":"Lalbazar Control Room",
-	"contactNumber":["03322143024", "03322143230", "03322141310"],
+	"contactNumber":"03322143024, 03322143230, 03322141310",
 	"iconName":"police"
 	},{
 	"name":"Fire Control Room",
@@ -38,7 +38,7 @@
 	"iconName":"fire"
 	},{
 	"name":"West Bengal State Electricity Board",
-	"contactNumber":["03323591915", "03323371150"],
+	"contactNumber":"03323591915, 03323371150",
 	"iconName":"electric"
 	},{
 	"name":"AIDS helpline",
