@@ -3,22 +3,22 @@
 "contacts":[{
 	"name":"Chatpata Adda",
 	"address":"Action Area III, Chotto Chandpur, New Town, West Bengal 700135",
-	"contactNumber":"8335891354",
-	"hourOfOperation":"Everyday 9:00am-10:30pm"
+	"contactNumbers":"8335891354",
+	"hoursOfOperation":"Everyday 9:00am-10:30pm"
 	},{
 	"name":"Ganpati Foods",
 	"address":"Shukhobristi Flat No. K/40/504",
-	"contactNumber":"8582914713",
-	"hourOfOperation":"Everyday 6:30am-10:30pm"
+	"contactNumbers":"8582914713",
+	"hoursOfOperation":"Everyday 6:30am-10:30pm"
 	},{
 	"name":"B Foodiez",
 	"address":"Shukhobrishti C/210/102",
-	"contactNumber":"9038998329",
-	"hourOfOperation":"Everyday 6:00am-10:00pm"
+	"contactNumbers":"9038998329",
+	"hoursOfOperation":"Everyday 6:00am-10:00pm"
 	},{
 	"name":"Jolly Jecker",
 	"address":"Action Area III, Chotto Chandpur, Newtown, New Town, West Bengal 700135",
-	"contactNumber":"3346037031",
-	"hourOfOperation":"Everyday 11:00am-10:00pm"
+	"contactNumbers":"03346037031",
+	"hoursOfOperation":"Everyday 11:00am-10:00pm"
 	}]
 }
