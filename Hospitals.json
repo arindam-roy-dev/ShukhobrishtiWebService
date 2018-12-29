@@ -1,0 +1,19 @@
+{
+"app":"Shukhobrishti",
+"contacts":[{
+	"name":"Ohio Hospital",
+	"address":"Plot No. DG-6, Service Road, Street Number 358, DG Block, Action Area I, New Town, Kolkata, West Bengal 700156",
+	"contactNumbers":"03366026602",
+	"hoursOfOperation":"Open 24 Hours"
+	},{
+	"name":"Tata Medical Center",
+	"address":"14 MAR (E-W), New Town, DH Block, Action Area I, Rajarhat, Kolkata, West Bengal 700156",
+	"contactNumbers":"03366057000",
+	"hoursOfOperation":"Open 24 Hours"
+	},{
+	"name":"Bhagirathi Neotia Woman and Child Care Centre",
+	"address":"DG Block, Action Area I, New Town, West Bengal 700156",
+	"contactNumbers":"03333235000",
+	"hoursOfOperation":"Open 24 Hours"
+	}]
+}
