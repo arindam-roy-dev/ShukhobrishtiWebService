@@ -1,0 +1,11 @@
+{
+"app":"Shukhobrishti",
+"contacts":[{
+	"name":"Purple Blaze Salon",
+	"services":"Professional Unisex Saloon",
+	"airConditioned":true,
+	"address":"Action Area III, Chotto Chandpur, New Town, West Bengal 700135",
+	"contactNumbers":"7604066984",
+	"hoursOfOperation":"Mon-Fri 10:30am-9:00pm, Sat-Sun 9:30am-9:00pm"
+	}]
+}
